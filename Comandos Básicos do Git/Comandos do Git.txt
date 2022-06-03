@@ -1,8 +1,11 @@
-Enviar arquivos para o Git/Repositório Local
-- git add .
+Principais comandos do Git
 
-Salvar Commit no Repositório Local
-- git commit -m "comentário da alteração realizada"
+git clone - Baixa o projeto para sua máquina local.
 
-Enviar para o Git Hub (nuvem)
-- git push origin main
+git add . - Adiciona os arquivos nos commits.
+
+git commit -m "comentário" - Para formalizar as mudanças.
+
+git push - Para subir as alterações no GitHub.
+
+git pull - Para receber o código atualizado na sua máquina local
