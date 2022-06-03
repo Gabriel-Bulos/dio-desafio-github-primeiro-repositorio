@@ -1,0 +1,8 @@
+Enviar arquivos para o Git/Repositório Local
+- git add .
+
+Salvar Commit no Repositório Local
+- git commit -m "comentário da alteração realizada"
+
+Enviar para o Git Hub (nuvem)
+- git push origin main
